@@ -191,6 +191,8 @@ html,body{
     align-items: center;
     color: black;
     height: 100%;
+    widht:100%;
+    background-color:white;
     font-size: 90px;
     font-family: Vanguard CF;
     letter-spacing: -2px;
